@@ -1,0 +1,86 @@
+[
+  {
+    "package": "DoseFinding",
+    "url": "https://github.com/openpharma/DoseFinding"
+  },
+  {
+    "package": "graphicalMCP",
+    "url": "https://github.com/openpharma/graphicalMCP"
+  },
+  {
+    "package": "mmrm",
+    "url": "https://github.com/openpharma/mmrm"
+  },
+  {
+    "package": "simaerep",
+    "url": "https://github.com/openpharma/simaerep"
+  },
+  {
+    "package": "crmPack",
+    "url": "https://github.com/openpharma/crmPack"
+  },
+  {
+    "package": "RobinCar2",
+    "url": "https://github.com/openpharma/RobinCar2"
+  },
+  {
+    "package": "rbmi",
+    "url": "https://github.com/openpharma/rbmi"
+  },
+  {
+    "package": "bunsen",
+    "url": "https://github.com/openpharma/bunsen"
+  },
+  {
+    "package": "tipse",
+    "url": "https://github.com/openpharma/tipse"
+  },
+  {
+    "package": "derrick",
+    "url": "https://github.com/openpharma/derrick"
+  },
+  {
+    "package": "bfboin",
+    "url": "https://github.com/openpharma/bfboin"
+  },
+  {
+    "package": "elaborator",
+    "url": "https://github.com/openpharma/elaborator"
+  },
+  {
+    "package": "brms.mmrm",
+    "url": "https://github.com/openpharma/brms.mmrm"
+  },
+  {
+    "package": "pmrm",
+    "url": "https://github.com/openpharma/pmrm"
+  },
+  {
+    "package": "rbmiUtils",
+    "url": "https://github.com/openpharma/rbmiUtils"
+  },
+  {
+    "package": "mtdesign",
+    "url": "https://github.com/openpharma/mtdesign"
+  },
+  {
+    "package": "savvyr",
+    "url": "https://github.com/openpharma/savvyr"
+  },
+  {
+    "package": "beeca",
+    "url": "https://github.com/openpharma/beeca"
+  },
+  {
+    "package": "roxytypes",
+    "url": "https://github.com/openpharma/roxytypes"
+  },
+  {
+    "package": "roxylint",
+    "url": "https://github.com/openpharma/roxylint"
+  },
+  {
+    "package": "bonsaiforest2",
+    "url": "https://github.com/openpharma/bonsaiforest2"
+  }
+]
